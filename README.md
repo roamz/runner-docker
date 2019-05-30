@@ -5,3 +5,4 @@ https://hub.docker.com/r/localmeasure/runner-docker
 
 Installed:
 - aws cli
+- curl
