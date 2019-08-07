@@ -1,4 +1,4 @@
-FROM docker
+FROM docker:19
 
 RUN apk -v --update add python3 curl
 RUN pip3 install --upgrade pip
